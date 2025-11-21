@@ -14,7 +14,7 @@ This project analyzes synthetic traffic data using PySpark to identify congestio
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repository-url>
+    git clone "https://github.com/ishitaparnami9/big-data-traffic-analysis"
     cd Traffic_Analysis_BigData
     ```
 
