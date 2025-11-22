@@ -1,3 +1,4 @@
+# this file is for generating fake data for this project
 import pandas as pd
 import numpy as np
 import json
